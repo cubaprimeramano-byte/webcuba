@@ -31,7 +31,7 @@ export const content = {
   heroSlides: [
     {
       title: "Liderazgo y Compromiso",
-      subtitle: "Marco Rubio, voz firme por la libertad de Cuba y por la reconstrucción de la misma.",
+      subtitle: "Marco Rubio, voz firme por la libertad de Cuba y por la Reconstrucción de la misma.",
       image: "/imagenes/img1.png", // Las imágenes están en la carpeta public/imagenes
       buttonText: "¡Cuba pide ayuda!",
       buttonLink: "#noticias",
