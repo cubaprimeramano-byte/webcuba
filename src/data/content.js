@@ -3,7 +3,7 @@ export const content = {
   // Aquí puedes cambiar el nombre de la pestaña, el subtítulo principal y el logo.
   site: {
     title: "Primera Mano Cuba",
-    subtitle: "Ayuda directa para la liberación y reconstrucción de Cuba",
+    subtitle: "Ayuda directa para la liberación y reconstrucción de Cuba ",
     logoText: "PMC", // Texto del logo (si no tienes imagen)
     logoImage: "/imagenes/logo.png", // Puedes poner "/imagenes/tu-logo.png" cuando tengas uno
   },
@@ -31,7 +31,7 @@ export const content = {
   heroSlides: [
     {
       title: "Liderazgo y Compromiso",
-      subtitle: "Marco Rubio, voz firme por la libertad de Cuba.",
+      subtitle: "Marco Rubio, voz firme por la libertad de Cuba y por la reconstrucción de la misma.",
       image: "/imagenes/img1.png", // Las imágenes están en la carpeta public/imagenes
       buttonText: "¡Cuba pide ayuda!",
       buttonLink: "#noticias",
