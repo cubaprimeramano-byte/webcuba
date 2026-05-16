@@ -31,10 +31,10 @@ export const content = {
   heroSlides: [
     {
       title: "Liderazgo y Compromiso",
-      subtitle: "Marco Rubio, voz firme por la libertad de Cuba y representante de nuestra fundación.",
+      subtitle: "Marco Rubio, voz firme por la libertad de Cuba.",
       image: "/imagenes/img1.png", // Las imágenes están en la carpeta public/imagenes
-      buttonText: "Solicitar Ayuda",
-      buttonLink: "#contacto",
+      buttonText: "¡Cuba pide ayuda!",
+      buttonLink: "#noticias",
     },
     {
       title: "Apoyo Internacional",
@@ -154,11 +154,11 @@ export const content = {
     items: [
       {
         title: "  ",
-        url: "https://www.youtube.com/embed/22sCUqKeyzA", // Short de Trump/Rubio
+        url: "https://www.youtube.com/embed/22sCUqKeyzA", // link para los videos aqui
       },
       {
         title: "  ",
-        url: "https://www.youtube.com/embed/S88_IPWzGKI", // Short de la noticia
+        url: "https://www.youtube.com/embed/S88_IPWzGKI", // link para los videos aqui
       },
     ],
   },
@@ -166,7 +166,7 @@ export const content = {
   // SECCIÓN DEL FORMULARIO DE AYUDA (CONTACTO)
   // El texto y botón que lleva a tu formulario de Google, Typeform, etc.
   contact: {
-    title: " ",
+    title: "Formulario",
     subtitle: "Ingresa al formulario para indicar a qué va dirigida la ayuda. Para acabar con la crisis en Cuba.",
     formLink: "https://tudominio.com/formulario-externo", // REEMPLAZAR ESTO con el enlace real de tu formulario
     formButtonText: "Ir al Formulario",
