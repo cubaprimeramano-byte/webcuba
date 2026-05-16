@@ -23,7 +23,7 @@ export const content = {
     { name: "Servicios de Ayuda", link: "#servicios" },
     { name: "Noticias", link: "#noticias" },
     { name: "Videos", link: "#videos" },
-    { name: "Formulario de Ayuda", link: "#contacto" },
+    { name: "Formulario", link: "#contacto" },
   ],
 
   // CARRUSEL DE IMÁGENES (SLIDER PRINCIPAL)
